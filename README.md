@@ -81,5 +81,3 @@ This project demonstrates how data visualization can be used to:
 ## ⭐ If you found this useful
 Give it a star ⭐ and feel free to connect!
 ---
-
-## 📁 Project Structure
