@@ -6,6 +6,9 @@ An end-to-end **Power BI dashboard** analyzing user behavior across an e-commerc
 The goal is to identify **conversion rates, drop-off points, and performance trends** across categories, devices, and time.
 
 ---
+## 📌 Problem Statement
+E-commerce businesses often struggle to understand where users drop off in the purchase journey.  
+This project aims to identify bottlenecks in the funnel and provide actionable insights to improve conversion rates.
 
 ## 🎯 Key Objectives
 - Analyze user journey: **Visit → View → Add to Cart → Purchase**
@@ -48,6 +51,14 @@ The goal is to identify **conversion rates, drop-off points, and performance tre
 - Conversion rate remains consistent (~6%) across segments  
 - High traffic does not guarantee higher conversions  
 - Purchase volume remains stable despite traffic fluctuations  
+
+---
+
+## 📊 Recommendations
+- Improve product pages to increase View → Cart conversion  
+- Optimize checkout process to reduce final-stage drop-offs  
+- Focus on high-performing categories for marketing efforts  
+- Maintain consistent experience across devices
 
 ---
 
