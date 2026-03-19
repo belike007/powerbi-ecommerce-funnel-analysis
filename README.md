@@ -1,4 +1,4 @@
-# 📊 E-commerce Conversion Funnel Analysis (Power BI)
+# 📊Customer Journey & Conversion Performance Dashboard
 
 ## 🔍 Overview
 This project presents an end-to-end **E-commerce Conversion Funnel Analysis** built using Power BI.  
