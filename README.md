@@ -70,4 +70,5 @@ This dashboard provides actionable insights to:
 
 ---
 
-## 📁 Repository Structure
+## 🔗 Connect / Feedback
+If you have suggestions or feedback, feel free to connect or reach out!
