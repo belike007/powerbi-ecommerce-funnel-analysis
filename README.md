@@ -56,9 +56,9 @@ It analyzes user behavior across different funnel stages to identify drop-off po
 
 ## 📷 Dashboard Preview
 
-![Funnel Overview](images/image 1.png)  
-![Category & Device Insights](images/image 2.png)  
-![Time Trends](images/image 3.png)
+![Funnel Overview](images/image1.png)  
+![Category & Device Insights](images/image2.png)  
+![Time Trends](images/image3.png)
 
 ---
 
